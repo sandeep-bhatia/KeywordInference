@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CitarVS", "CitarVS.vcxproj", "{1B9517C9-9E5E-4295-9E98-39AD88594913}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InferenceClient", "..\InferenceClient\Client.vcxproj", "{929FEF72-C5BC-43EF-BD28-DD44085E12FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9517C9-9E5E-4295-9E98-39AD88594913}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B9517C9-9E5E-4295-9E98-39AD88594913}.Debug|Win32.Build.0 = Debug|Win32
+		{1B9517C9-9E5E-4295-9E98-39AD88594913}.Release|Win32.ActiveCfg = Release|Win32
+		{1B9517C9-9E5E-4295-9E98-39AD88594913}.Release|Win32.Build.0 = Release|Win32
+		{929FEF72-C5BC-43EF-BD28-DD44085E12FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{929FEF72-C5BC-43EF-BD28-DD44085E12FB}.Debug|Win32.Build.0 = Debug|Win32
+		{929FEF72-C5BC-43EF-BD28-DD44085E12FB}.Release|Win32.ActiveCfg = Release|Win32
+		{929FEF72-C5BC-43EF-BD28-DD44085E12FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
